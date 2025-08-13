@@ -1,0 +1,15 @@
+{
+  "name": "BioSculpt Wellness",
+  "short_name": "BioSculpt",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#AED7DC",
+  "theme_color": "#103B64",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
