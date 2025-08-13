@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Felix (Peptides & Tools)",
+    "category": "Peptides",
+    "code": "Adria10",
+    "link": "https://felixchem.is/refer/BioSculpt/",
+    "note": "Felix Fridays: 24-hr promos. Check Hub for current deal.",
+    "tags": ["GLP(T)","NAD+","BPC-157"]
+  },
+  {
+    "name": "Stride DNA & Functional Testing",
+    "category": "Testing",
+    "code": "ADRIA10",
+    "link": "https://save.getstride.com/ADRIA10",
+    "note": "Optimal health & methylation testing.",
+    "tags": ["Testing"]
+  },
+  {
+    "name": "BodyHealth",
+    "category": "Supplements",
+    "code": "—",
+    "link": "https://prz.io/QKPRRJ1i6",
+    "note": "ESSENTIAL AMINOS and more.",
+    "tags": ["Aminos"]
+  },
+  {
+    "name": "Amazon Wellness Tools",
+    "category": "Tools",
+    "code": "Amazon Associates",
+    "link": "https://www.amazon.com/shop/your-storefront?tag=YOURTAG-20",
+    "note": "Replace YOURTAG-20 with your Associates tag.",
+    "tags": ["Bands","Scales","Cold packs"]
+  }
+]
